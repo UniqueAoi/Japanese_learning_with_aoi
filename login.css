@@ -1,0 +1,152 @@
+/* *{
+	box-sizing: border-box;
+	margin: 0;
+	padding:0;
+	background:url(tree.jpg);
+	background-size: 90%;
+} */
+
+/* a 
+{
+	text-decoration: none;
+	color: black;
+}
+
+.nav_home a 
+{
+	width: 6.5vw;
+	height: 6.5vh;
+	background: black;
+	display: inline-block;
+	padding-top:1%;
+	margin: 4%;
+	text-align:center;
+	margin-top: 1%;
+	color: white;
+	border: 1px solid white;
+
+}
+.nav_home a:hover 
+{
+   background:#ff7200;
+   border-radius: 5px;
+   color: black;
+   border:1px solid black;
+}
+
+
+.search
+{
+	display: flex;
+	align-items: center;
+	position: absolute;
+	right: 7%;
+	top: 4%;
+	width: 23%;
+	height: 9%;
+	background: none;
+}
+.search form 
+{
+	display: flex;
+
+}
+.search input
+{
+	padding: 1px;
+	border:1px solid black;
+	outline: none;
+	border-radius: 5px;
+	margin-right: 10px;
+	width:20vw;
+	height: 5vh;
+	background: none;
+	font-size: 16px;
+}
+.search button
+{
+	padding: 1px;
+	background:none;
+	border-radius: 5px;
+	font-size: 19px;
+	cursor: pointer;
+	border: 1px solid black;
+}
+.login_form
+{
+	border: 1px solid black;
+	width: 30%;
+	height:60%;
+	right: 3%;
+	position: absolute;
+	background: black;
+	border-radius: 10px;
+	padding: 25px;
+}
+.login_form h1 
+{
+	background: none;
+	text-align: center;
+
+}
+.form 
+{
+	display: inline-block;
+	border: 1px solid black;
+	background: none;
+	height: 4vh;
+	width: 250px;
+	padding: 25px;
+	border-radius: 10px;
+	
+}
+
+.form h1{
+	width: 220px;
+	font-family: sans-serif;
+	font-size: 22px;
+	text-align: center;
+	border-radius: 10px;
+	background: white;
+	margin: 2px;
+	padding: 8px;
+	color: #ff7200;
+
+}
+.form input 
+{
+	width: 240px;
+	height: 35px;
+	background: transparent;
+	border-bottom:1px solid #ff7200;
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	font-size: 15px;
+	font-family: sans-serif;
+	color: white;
+}
+.btn a 
+{
+	background: none;
+}
+.btn
+{
+	background:#ff7200;
+	width: 240px;
+	height: 40px;
+	border: none;
+	margin-top: 30px;
+	font-size: 18px;
+	border-radius: 10px;
+	color: white;
+}
+.btn:hover{
+	background: white;
+	color: #ff7200;
+}
+p
+{
+	background:none;
+} */
+
